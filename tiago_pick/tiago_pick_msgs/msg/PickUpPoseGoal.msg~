@@ -1,0 +1,2 @@
+geometry_msgs/PoseStamped object_pose
+tiago_pick_msgs/PickScene pick_scene

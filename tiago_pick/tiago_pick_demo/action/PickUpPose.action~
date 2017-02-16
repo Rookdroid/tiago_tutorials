@@ -1,0 +1,9 @@
+string object_to_pick
+geometry_msgs/PoseStamped object_pose
+tiago_pick_msgs/PickScene pick_scene
+---
+#result definition
+# Comes from moveit_msgs/MoveItErrorCodes
+int32 error_code
+---
+#feedback

@@ -1,0 +1,16 @@
+# Desired objects in the scene
+scene_objects: {aruco_cube1: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+                aruco_cube2: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                aruco_cube3: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                aruco_cube4: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                aruco_cube5: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                aruco_cube6: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+object_width: 0.05
+object_height: 0.1
+object_depth: 0.05
+
+support_surface: "table1"
+surface_width: 1.0
+surface_height: 0.8
+surface_depth: 0.8
+
