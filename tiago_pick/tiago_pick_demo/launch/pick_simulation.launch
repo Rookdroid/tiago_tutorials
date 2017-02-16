@@ -10,7 +10,7 @@
   <include file="$(find tiago_gazebo)/launch/tiago_gazebo.launch">
     <arg name="robot"      value="$(arg robot)"/>
     <arg name="public_sim" value="$(arg public_sim)"/>
-    <arg name="world"      value="box_pack_one_table"/>
+    <arg name="world"      value="box_pack_with_tray"/>
   </include>
 
 
