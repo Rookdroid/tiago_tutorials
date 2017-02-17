@@ -323,7 +323,7 @@
     </model>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>-0.447377 1.57673 1.74093 -7.04109e-17 0.662612 -1.74581</pose>
+        <pose>-0.545469 3.53493 3.1522 -7.04109e-17 0.662612 -1.74581</pose>
         <view_controller>orbit</view_controller>
       </camera>
     </gui>
@@ -640,58 +640,58 @@
       <pose>0.400406 -1 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>170 568000000</sim_time>
-      <real_time>85 855605819</real_time>
-      <wall_time>1486754047 142270623</wall_time>
+      <sim_time>196 484000000</sim_time>
+      <real_time>26 35834343</real_time>
+      <wall_time>1487294757 293362456</wall_time>
       <model name='aruco_cube1'>
-        <pose>0.530038 -0.049875 0.863955 -0.002499 0.000769 -1e-06</pose>
+        <pose>0.530054 -0.049825 0.863733 -0.003495 0.001081 -2e-06</pose>
         <link name='link'>
-          <pose>0.530038 -0.049875 0.863955 -0.002499 0.000769 -1e-06</pose>
+          <pose>0.530054 -0.049825 0.863733 -0.003495 0.001081 -2e-06</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='aruco_cube2'>
-        <pose>1.13775 -0.240771 0.863274 -0.004972 0.001518 0.003149</pose>
+        <pose>1.13777 -0.240719 0.863052 -0.006021 0.001855 0.003148</pose>
         <link name='link'>
-          <pose>1.13775 -0.240771 0.863274 -0.004972 0.001518 0.003149</pose>
+          <pose>1.13777 -0.240719 0.863052 -0.006021 0.001855 0.003148</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='aruco_cube3'>
-        <pose>1.00315 -0.095675 0.863247 -0.004856 0.001513 -2e-06</pose>
+        <pose>1.00317 -0.095623 0.863025 -0.005903 0.00185 -3e-06</pose>
         <link name='link'>
-          <pose>1.00315 -0.095675 0.863247 -0.004856 0.001513 -2e-06</pose>
+          <pose>1.00317 -0.095623 0.863025 -0.005903 0.00185 -3e-06</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='aruco_cube4'>
-        <pose>0.999971 0.099844 0.863617 -0.003098 0.000955 9.2e-05</pose>
+        <pose>0.999987 0.099894 0.863395 -0.004107 0.001274 9.1e-05</pose>
         <link name='link'>
-          <pose>0.999971 0.099844 0.863617 -0.003098 0.000955 9.2e-05</pose>
+          <pose>0.999987 0.099894 0.863395 -0.004107 0.001274 9.1e-05</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='aruco_cube5'>
-        <pose>0.760453 -0.292541 0.863631 -0.003034 0.000935 -1e-06</pose>
+        <pose>0.760469 -0.292491 0.863409 -0.004042 0.001253 -2e-06</pose>
         <link name='link'>
-          <pose>0.760453 -0.292541 0.863631 -0.003034 0.000935 -1e-06</pose>
+          <pose>0.760469 -0.292491 0.863409 -0.004042 0.001253 -2e-06</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='aruco_cube6'>
-        <pose>0.596112 0.148996 0.86394 -0.003034 0.000935 -1e-06</pose>
+        <pose>0.596128 0.149046 0.863718 -0.004042 0.001253 -2e-06</pose>
         <link name='link'>
-          <pose>0.596112 0.148996 0.86394 -0.003034 0.000935 -1e-06</pose>
+          <pose>0.596128 0.149046 0.863718 -0.004042 0.001253 -2e-06</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -701,15 +701,6 @@
         <pose>0 0 0 0 -0 0</pose>
         <link name='link'>
           <pose>0 0 0 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='kit_tray'>
-        <pose>-0.848302 0 0.81928 0 -0 0</pose>
-        <link name='tray'>
-          <pose>-0.848302 0 0.81928 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -913,179 +904,6 @@
         <kinematic>0</kinematic>
         <gravity>1</gravity>
       </link>
-      <pose>-1 0 0 0 -0 0</pose>
-    </model>
-    <model name='kit_tray'>
-      <static>1</static>
-      <plugin name='kit_tray_plugin' filename='libROSAriacKitTrayPlugin.so'>
-        <contact_sensor_name>kit_tray_contact</contact_sensor_name>
-        <update_rate>20</update_rate>
-      </plugin>
-      <link name='tray'>
-        <sensor name='kit_tray_contact' type='contact'>
-          <update_rate>1</update_rate>
-          <contact>
-            <collision>tray_collision</collision>
-            <topic>__default_topic__</topic>
-          </contact>
-        </sensor>
-        <gravity>1</gravity>
-        <collision name='tray_collision'>
-          <geometry>
-            <box>
-              <size>0.5 0.7 0.001</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <collision name='tray_collision1'>
-          <pose>0.25 0 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.001 0.7 0.0254</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <visual name='tray_visual1'>
-          <pose>0.25 0 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.001 0.7 0.0254</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.486275 0.819608 1 1</ambient>
-            <diffuse>0.486275 0.819608 1 1</diffuse>
-          </material>
-        </visual>
-        <collision name='tray_collision2'>
-          <pose>-0.25 0 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.001 0.7 0.0254</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <visual name='tray_visual2'>
-          <pose>-0.25 0 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.001 0.7 0.0254</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.486275 0.819608 1 1</ambient>
-            <diffuse>0.486275 0.819608 1 1</diffuse>
-          </material>
-        </visual>
-        <collision name='tray_collision3'>
-          <pose>0 0.35 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.5 0.001 0.0254</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <visual name='tray_visual3'>
-          <pose>0 0.35 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.5 0.001 0.0254</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.486275 0.819608 1 1</ambient>
-            <diffuse>0.486275 0.819608 1 1</diffuse>
-          </material>
-        </visual>
-        <collision name='tray_collision4'>
-          <pose>0 -0.35 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.5 0.001 0.0254</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <visual name='tray_visual4'>
-          <pose>0 -0.35 0.0127 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.5 0.001 0.0254</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.486275 0.819608 1 1</ambient>
-            <diffuse>0.486275 0.819608 1 1</diffuse>
-          </material>
-        </visual>
-        <visual name='visual'>
-          <geometry>
-            <box>
-              <size>0.5 0.7 0.001</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.486275 0.819608 1 1</ambient>
-            <diffuse>0.486275 0.819608 1 1</diffuse>
-          </material>
-        </visual>
-        <velocity_decay>
-          <linear>0</linear>
-          <angular>0</angular>
-        </velocity_decay>
-        <self_collide>0</self_collide>
-        <kinematic>0</kinematic>
-      </link>
-      <allow_auto_disable>0</allow_auto_disable>
       <pose>-1 0 0 0 -0 0</pose>
     </model>
   </world>
