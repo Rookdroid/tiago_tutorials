@@ -324,7 +324,7 @@ class PickAruco(object):
                 place_pose = PoseStamped()
                 place_pose.header.frame_id = 'base_footprint'
                 place_pose.header.stamp = rospy.get_rostime()
-                place_pose.pose = self.get_model_state("kit_tray","base_footprint")
+                place_pose.pose = self.get_model_state("table1","base_footprint")
                 place_pose.pose.position.z += 0.01 + 0.125
                 place_pose.pose.position.y = place_pose.pose.position.y-0.25 + 0.1*idx
                 rospy.loginfo(place_pose)
